@@ -1,3 +1,7 @@
+#Esto es un programa que genera 1 combinación de 5 numeros del 1 al 25 de Bono-Loto que no han salido
+# basandose en un archivo historico, tambien genera 1 combinación de 1 numero del 26 al 49 que no han salido.
+# Se llama combinacion 5-1
+
 import random
 import csv
 
